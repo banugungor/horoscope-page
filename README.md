@@ -1,7 +1,7 @@
 
 <h2>Horoscope Page</h2>
 
-<h3><a href="https://phenomenal-torrone-e60936.netlify.app/" rel="nofollow">Go to page!</a></h3>
+<h3><a href="https://react-horoscope-page.netlify.app/" rel="nofollow">Go to page!</a></h3>
 
 
 
