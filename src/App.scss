@@ -1,0 +1,19 @@
+@import "./scss/reset";
+@import "./scss/mixins";
+@import "./scss/variables";
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+SC&family=Halant:wght@400;500;600;700&family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300&display=swap');
+
+body {
+  // font-family: 'Manrope', sans-serif;
+  
+  background-color: $backgroundImage;
+  //   height: 100vh;
+//   font-family: 'Alegreya SC', serif;
+// font-family: 'Halant', serif;
+font-family: 'Poppins', sans-serif;
+background-attachment: fixed; //bg'nin sabit kalmasını sağlar
+
+}
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
